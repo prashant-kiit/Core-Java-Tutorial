@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68285f65-4897-44c8-81b3-f75dddfe449b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KunalJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Abstract/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Abstract/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Access/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Access/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Access/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Collections/Collections.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Copy/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Copy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Custom/CustomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Custom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Hiding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Hiding/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Hiding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example1/Modern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example1/Vintage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/DumbCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/ModernEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Example2/VintageEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Inherit/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Inherit/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Inherit/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Inherit/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Inherit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/InterfaceUsingAbtractClass/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/InterfaceUsingAbtractClass/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/InterfaceUsingAbtractClass/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/InterfaceUsingAbtractClass/Engine2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Lamdba/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Lamdba/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Object/ObjectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Static/Inheritance/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Static/Inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Static/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Static/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/Thread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/Thread/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Prashant/comparable/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2UyEzrUYOUHWV97wMgwDdcBh5ob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/Intellij IDEA/IdeaProjects/KunalJava",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Prashant.Exception.MyExpection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT\IdeaProjects\KunalJava\src\Static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Application_RunConfig" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Access.Main" />
+      <module name="KunalJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Abstract.Main" />
+      <module name="KunalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Prashant.Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Abstract.Main" />
+      <module name="KunalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Prashant.Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Thread.Main3" />
+      <module name="KunalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Prashant.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Thread.Main3" />
+      <module name="KunalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Prashant.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Prashant.Thread.Main3" />
+      <module name="KunalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Prashant.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application_RunConfig" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main3 (1)" />
+      <item itemvalue="Application.Main3 (3)" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main3 (3)" />
+        <item itemvalue="Application.Main3 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68285f65-4897-44c8-81b3-f75dddfe449b" name="Changes" comment="" />
+      <created>1693903690839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693903690839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KunalJava$com_Prashant_comparable_Main.ic" NAME="com.Prashant.comparable.Main Coverage Results" MODIFIED="1694461199271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Prashant.comparable.*</FILTER>
+    </SUITE>
+  </component>
+</project>
